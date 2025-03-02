@@ -11,5 +11,5 @@ This is the core code from scratch to clone the landing page of Netflix using **
 ![image](https://user-images.githubusercontent.com/79099734/156505809-309a6824-5d85-4cc0-9ffd-95d66fb2cf5e.png)
 
 Thanks
-# Anurag Baveja
+Anurag Baveja
 anuragbaveja659@gmail.com 
