@@ -13,3 +13,4 @@ This is the core code from scratch to clone the landing page of Netflix using **
 Thanks
 # Anurag Baveja
 anuragbaveja659@gmail.com 
+Currently working on adding some new features like suggestions or recommendations by AI.
