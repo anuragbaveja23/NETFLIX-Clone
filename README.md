@@ -10,7 +10,11 @@ This is the core code from scratch to clone the landing page of Netflix using **
 ![image](https://github.com/user-attachments/assets/46a2b07b-5be1-48d8-b982-0739d930d6f5)
 ![image](https://github.com/user-attachments/assets/49de0770-b8ab-4b2a-b7aa-87493c72e816)
 
+[Live URL](https://netflix-clone-git-main-anurag-bavejas-projects.vercel.app)
+
 Thanks
 # Anurag Baveja
 anuragbaveja659@gmail.com 
 Currently working on adding some new features like suggestions or recommendations by AI.
+
+
